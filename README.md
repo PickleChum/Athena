@@ -55,6 +55,8 @@ Interact with Athena by sending text or voice messages to your Telegram bot. Ath
 
 To reset the conversation history, send the `/reset` command to the bot.
 
+Add the keyword search at the beginning of your message, and the bot will utilize the Bing API to fetch up-to-date information for your query. Additionally, if your message includes one or more trigger words related to time or weather, the bot will automatically provide relevant information.
+
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
