@@ -1,0 +1,5 @@
+Flask
+python-telegram-bot
+openai
+pydub
+python-dotenv
