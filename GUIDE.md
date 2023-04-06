@@ -38,6 +38,7 @@ This guide will walk you through the process of setting up Athena, a Telegram ch
 
 5. Set up the environment variables. You can either set them directly in your system or create a .env file in the project directory with the following content:
 
+```
    BOT_TOKEN=your_telegram_bot_token
    OPENAI_API_KEY=your_openai_api_key
    WHISPER_ASR_API_KEY=your_openai_whisper_asr_api_key
@@ -48,6 +49,7 @@ This guide will walk you through the process of setting up Athena, a Telegram ch
    FULLCHAIN_PEM=your_fullchain_pem_file_path
    PRIVKEY_PEM=your_privkey_pem_file_path
    REDIS_URL=your_redis_url (optional)
+```
 
 6. Replace the placeholders (e.g., your_telegram_bot_token) with your actual API keys and other required information.
 
