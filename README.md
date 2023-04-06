@@ -9,7 +9,7 @@ To set up Athena on your own machine, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/athena.git
+git clone https://github.com/PickleChum/athena.git
 ```
 
 2. Create a virtual environment and install the required packages:
