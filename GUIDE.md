@@ -57,6 +57,6 @@ This guide will walk you through the process of setting up Athena, a Telegram ch
 
 8. Run the main Python script to start the Telegram bot:
 
-   `python athena_telegram_bot.py`
+   `python athena-bot.py`
 
 The bot should now be up and running. You can interact with it on Telegram by sending text and voice messages.
