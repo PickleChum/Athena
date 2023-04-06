@@ -303,7 +303,7 @@ if __name__ == '__main__':
         port=443,
         debug=True,
         ssl_context=(
-            FULLCHAIN_PATH,
-            PRIVKEY_PATH,
+            os.environ.get("FULLCHAIN_PEM"),
+            os.environ.get("PRIVKEY_PEM"),
         ),
     )
